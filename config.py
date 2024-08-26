@@ -6,4 +6,5 @@ BINANCE_API_KEY = 'tdoRrOTcnMxXfcGuycifHNuJhxJC2Ij7xOjLOLeOllk58dTWKXDB19Hk7TN9X
 BINANCE_API_SECRET = ''   # Replace with your Binance API secret
 POOL_URL = 'stratum+tcp://litecoinpool.org:3333' # Example Litecoin pool URL
 WALLET_ADDRESS = 'LhicUG3GNqDV2pNmrByd9e96cQgf6d3Vj4'  # Your Litecoin wallet address
-WORKER_NAME = 'RituRajDeka'                      # Don't change it
+WORKER_NAME = 'RituRajDeka.minner'                      # Don't change it
+WORKER_PASSWORD = '1'  # Replace with your worker password
