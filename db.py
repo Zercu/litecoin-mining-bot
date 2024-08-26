@@ -2,7 +2,7 @@ import sqlite3
 
 # Initialize the database
 def init_db():
-    conn = sqlite3.connect('ltc_mining_bot.db')
+    conn = sqlite3.connect('mulla')
     c = conn.cursor()
     
     # Create users table
